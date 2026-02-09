@@ -2,7 +2,7 @@
 -- Chap 12 in textbook
 
 -- 1)))) Login Postgres:
-psql -U postgres     (pwd = pgadmin11)
+psql -U postgres     
 
 
 -- 2)))) CREATE A GROUP IN PG:
