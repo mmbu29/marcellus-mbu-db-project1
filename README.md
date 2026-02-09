@@ -2,7 +2,7 @@
 -- Chap 12 in textbook
 
 -- 1)))) Login Postgres:
-psql -U postgres     
+psql -U postgres     (password)
 
 
 -- 2)))) CREATE A GROUP IN PG:
